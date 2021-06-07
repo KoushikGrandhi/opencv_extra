@@ -1,6 +1,6 @@
 ### OpenCV: Open Source Computer Vision Library
 
-This repository contains extra data for the OpenCV library.
+This forked repository contains extra data for the OpenCV library such as Pre trained DNN models popularly used in CV.
 
 #### Resources
 * Homepage: http://opencv.org
